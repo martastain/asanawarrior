@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/manishrjain/asanawarrior/x"
+	"github.com/martastain/asanawarrior/x"
 	"github.com/pkg/errors"
 )
 
